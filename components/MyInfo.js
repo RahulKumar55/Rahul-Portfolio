@@ -33,7 +33,7 @@ const MyInfo = () => {
         <br/>
         <div className="flex space-x-4 justify-center md:justify-start">
           <a
-            href="/resume/Rahul_resume.docx"
+            href="/resume/Rahul_Resume.pdf"
             className="bg-goldCustom font-bold text-blackCustom py-2 px-6 rounded"
             download
           >
