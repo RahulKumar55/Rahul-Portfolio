@@ -1,7 +1,6 @@
 const About = () => {
     return (
-        <section id="about" className="w-full h-screen flex flex-col items-center justify-center">
-          <div className="md:mx-20 p-10" id="about"> 
+        <section id="about" className="bg-blackCustom text-goldCustom md:mx-20 p-10">
             {/* About Me Section */}
             <section className="mb-10">
               <h2 className="text-2xl font-bold mb-4">About Me</h2>
@@ -56,7 +55,6 @@ const About = () => {
                   </div>
                 </div>
             </section>
-          </div>
         </section>
     );
   };

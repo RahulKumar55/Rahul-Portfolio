@@ -3,7 +3,7 @@ import Link from 'next/link';
 const MyInfo = () => {
   return (
     <section id="myInfo" className="w-full h-screen flex flex-col items-center justify-center">
-    <div className="flex flex-col md:flex-row items-center justify-between p-10 gap-32">
+    <div className="flex flex-col md:flex-row items-center justify-between p-4 gap-32">
       <div className="mb-4 md:mb-0 md:mr-8">
         <img
           src="/images/Rahul.jpeg"
