@@ -17,7 +17,7 @@ const skills = [
   { name: 'MongoDB', image: '/logos/MongoDB.png' },
   { name: 'MySQL', image: '/logos/MySQL.png' },
   { name: 'PostgreSQL', image: '/logos/Postgresql.png' },
-  { name: 'Numpy', image: '/logos/Numpy.png' },
+  { name: 'NumPy', image: '/logos/NumPy.png' },
   { name: 'Express', image: '/logos/Express.png' },
   { name: 'CSS', image: '/logos/CSS.png' },
   { name: 'Tailwind', image: '/logos/Tailwind.png' },
